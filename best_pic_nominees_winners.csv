@@ -31,14 +31,14 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1936,1930s,False,Romeo and Juliet,6.5,125.0,George Cukor,"Norma Shearer, Leslie Howard, John Barrymore","William Shakespeare, Talbot Jennings",Loew's Inc.,Irving Thalberg,"Drama, Romance",
 1936,1930s,False,San Francisco,7.1,115.0,W.S. Van Dyke,"Clark Gable, Jeanette MacDonald, Spencer Tracy","Anita Loos, Robert E. Hopkins, Herman J. Mankiewicz",Loew's Inc.,"John Emerson, Bernard H. Hyman","Drama, Music, Romance",
 1936,1930s,False,The Story of Louis Pasteur,7.3,86.0,William Dieterle,"Paul Muni, Josephine Hutchinson, Anita Louise","Sheridan Gibney, Pierre Collings, Edward Chodorov",Warner Bros.,Henry Blanke,"Biography, Drama, History",
-1936,1930s,False,A Tale of Two Cities,,,nan,nan,nan,"Loew's, Inc",David O. Selznick,nan,
+1936,1930s,False,A Tale of Two Cities,,,,,,"Loew's, Inc",David O. Selznick,nan,
 1936,1930s,False,Three Smart Girls,6.6,84.0,Henry Koster,"Binnie Barnes, Charles Winninger, Alice Brady","Adele Comandini, Isabel Dawn, Boyce DeGaw",Universal Pictures,Joe Pasternak,"Comedy, Musical, Romance",
 1937,1930s,True,The Life of Emile Zola,7.1,116.0,William Dieterle,"Paul Muni, Gale Sondergaard, Joseph Schildkraut","Norman Reilly Raine, Heinz Herald, Geza Herczeg",Warner Bros. Pictures,Henry Blanke,"Biography, Drama",
 1937,1930s,False,The Awful Truth,7.7,90.0,Leo McCarey,"Irene Dunne, Cary Grant, Ralph Bellamy","Viña Delmar, Arthur Richman, Sidney Buchman",Columbia Pictures,Leo McCarey,"Comedy, Romance",
 1937,1930s,False,Captains Courageous,7.9,117.0,Victor Fleming,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore","Rudyard Kipling, John Lee Mahin, Marc Connelly",Loew's Inc.,Louis D. Lighton,"Adventure, Drama, Family",
 1937,1930s,False,Dead End,7.2,93.0,William Wyler,"Sylvia Sidney, Joel McCrea, Humphrey Bogart","Lillian Hellman, Sidney Kingsley",United Artists,Samuel Goldwyn,"Crime, Drama, Film-Noir",
 1937,1930s,False,The Good Earth,7.5,138.0,"Sidney Franklin, Victor Fleming, Gustav Machatý","Paul Muni, Luise Rainer, Walter Connolly","Talbot Jennings, Tess Slesinger, Claudine West","Loew's, Inc.","Irving Thalberg, Albert Lewin","Drama, Romance",
-1937,1930s,False,In Old Chicago,,,nan,nan,nan,20th Century Fox,"Darryl F. Zanuck, Kenneth Macgowan",nan,
+1937,1930s,False,In Old Chicago,,,,,,20th Century Fox,"Darryl F. Zanuck, Kenneth Macgowan",nan,
 1937,1930s,False,Lost Horizon,7.6,132.0,Frank Capra,"Ronald Colman, Jane Wyatt, Edward Everett Horton","Robert Riskin, James Hilton, Sidney Buchman",Columbia Pictures,Frank Capra,"Adventure, Drama, Fantasy",
 1937,1930s,False,One Hundred Men and a Girl,6.7,84.0,Henry Koster,"Deanna Durbin, Adolphe Menjou, Alice Brady","Bruce Manning, Charles Kenyon, James Mulhauser",Universal Pictures,Joe Pasternak,"Comedy, Drama, Music",
 1937,1930s,False,Stage Door,7.7,92.0,Gregory La Cava,"Katharine Hepburn, Ginger Rogers, Adolphe Menjou","Morrie Ryskind, Anthony Veiller, Edna Ferber",RKO Radio Pictures(US)Radio Pictures Ltd.(UK),Pandro S. Berman,"Comedy, Drama, Romance",
@@ -49,7 +49,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1938,1930s,False,Boys Town,7.2,96.0,Norman Taurog,"Spencer Tracy, Mickey Rooney, Henry Hull","John Meehan, Dore Schary, Eleanore Griffin",Loew's Inc.,John W. Considine Jr.,"Biography, Drama, Family",
 1938,1930s,False,The Citadel,7.1,110.0,King Vidor,"Robert Donat, Rosalind Russell, Ralph Richardson","Ian Dalrymple, Frank Wead, Elizabeth Hill",Metro-Goldwyn-Mayer,Victor Saville,Drama,
 1938,1930s,False,Four Daughters,6.9,90.0,Michael Curtiz,"Claude Rains, John Garfield, Jeffrey Lynn","Julius J. Epstein, Lenore J. Coffee, Fannie Hurst",Warner Bros.,Hal B. Wallis,"Drama, Music, Romance",
-1938,1930s,False,Grand Illusion,,,nan,nan,nan,Réalisation d'Art Cinématographique,"Albert Pinkovitch, Frank Rollmer",nan,
+1938,1930s,False,Grand Illusion,,,,,,Réalisation d'Art Cinématographique,"Albert Pinkovitch, Frank Rollmer",nan,
 1938,1930s,False,Jezebel,7.4,104.0,William Wyler,"Bette Davis, Henry Fonda, George Brent","Clements Ripley, Abem Finkel, John Huston",Warner Bros.,William Wyler,"Drama, Romance",
 1938,1930s,False,Pygmalion,7.7,89.0,"Anthony Asquith, Leslie Howard","Leslie Howard, Wendy Hiller, Wilfrid Lawson","George Bernard Shaw, W.P. Lipscomb, Cecil Lewis",General Film Distributors,Gabriel Pascal,"Comedy, Drama, Romance",
 1938,1930s,False,Test Pilot,6.8,119.0,Victor Fleming,"Clark Gable, Myrna Loy, Spencer Tracy","Vincent Lawrence, Waldemar Young, Frank Wead",Loew's Inc.,Louis D. Lighton,"Drama, Romance",
@@ -84,7 +84,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1941,1940s,False,Sergeant York,7.7,134.0,Howard Hawks,"Gary Cooper, Walter Brennan, Joan Leslie","Abem Finkel, Harry Chandlee, Howard Koch",Warner Bros.,"Jesse L. Lasky, Hal B. Wallis","Biography, Drama, History",16361885.0
 1941,1940s,False,Suspicion,7.3,99.0,Alfred Hitchcock,"Cary Grant, Joan Fontaine, Cedric Hardwicke","Samson Raphaelson, Joan Harrison, Alma Reville",RKO Radio Pictures,"Alfred Hitchcock, Harry E. Edington","Drama, Film-Noir, Mystery",
 1942,1940s,True,Mrs. Miniver,7.6,134.0,William Wyler,"Greer Garson, Walter Pidgeon, Teresa Wright","Arthur Wimperis, George Froeschel, James Hilton",Loew's Inc.,Sidney Franklin,"Drama, Romance, War",
-1942,1940s,False,49th Parallel,,,nan,nan,nan,General Film Distributors Ltd.,John Sutro,nan,
+1942,1940s,False,49th Parallel,,,,,,General Film Distributors Ltd.,John Sutro,nan,
 1942,1940s,False,Kings Row,7.5,127.0,Sam Wood,"Ann Sheridan, Robert Cummings, Ronald Reagan","Casey Robinson, Henry Bellamann",Warner Bros.,Hal B. Wallis,Drama,
 1942,1940s,False,The Magnificent Ambersons,7.6,88.0,"Orson Welles, Fred Fleck, Robert Wise","Tim Holt, Joseph Cotten, Dolores Costello","Booth Tarkington, Orson Welles, Joseph Cotten",RKO Radio Pictures,Orson Welles,"Drama, Romance",
 1942,1940s,False,The Pied Piper,7.0,87.0,Irving Pichel,"Monty Woolley, Roddy McDowall, Anne Baxter","Nunnally Johnson, Nevil Shute",20th Century Fox,Nunnally Johnson,"Drama, War",
@@ -93,14 +93,14 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1942,1940s,False,The Talk of the Town,7.5,118.0,George Stevens,"Cary Grant, Jean Arthur, Ronald Colman","Irwin Shaw, Sidney Buchman, Dale Van Every",Columbia Pictures,Fred Guiol,"Comedy, Drama, Romance",
 1942,1940s,False,Wake Island,6.7,88.0,John Farrow,"Brian Donlevy, Robert Preston, Macdonald Carey","W.R. Burnett, Frank Butler, Lawrence Hazard",Paramount Pictures,Joseph Sistrom,"Action, Drama, War",
 1942,1940s,False,Yankee Doodle Dandy,7.6,126.0,Michael Curtiz,"James Cagney, Joan Leslie, Walter Huston","Robert Buckner, Edmund Joseph, Julius J. Epstein",Warner Bros.,"Hal B. Wallis, Jack L. Warner","Biography, Drama, Family",11800000.0
-1943,1940s,True,Casablanca,,,nan,nan,nan,"Warner Bros. Pictures, Inc.",Hal B. Wallis,nan,
+1943,1940s,True,Casablanca,,,,,,"Warner Bros. Pictures, Inc.",Hal B. Wallis,nan,
 1943,1940s,False,For Whom the Bell Tolls,6.8,170.0,Sam Wood,"Gary Cooper, Ingrid Bergman, Akim Tamiroff","Dudley Nichols, Ernest Hemingway, Louis Bromfield",Paramount Pictures,Sam Wood,"Adventure, Drama, History",
 1943,1940s,False,Heaven Can Wait,7.3,112.0,Ernst Lubitsch,"Gene Tierney, Don Ameche, Charles Coburn","Samson Raphaelson, Leslie Bush-Fekete",20th Century Fox,Ernst Lubitsch,"Comedy, Drama, Fantasy",
 1943,1940s,False,The Human Comedy,7.0,117.0,Clarence Brown,"Mickey Rooney, Frank Morgan, James Craig","William Saroyan, Howard Estabrook, Herman J. Mankiewicz","Loew's, Inc",Clarence Brown,"Comedy, Drama, Family",
-1943,1940s,False,In Which We Serve,,,nan,nan,nan,British Lion Films,Noël Coward,nan,
+1943,1940s,False,In Which We Serve,,,,,,British Lion Films,Noël Coward,nan,
 1943,1940s,False,Madame Curie,7.2,124.0,"Mervyn LeRoy, Albert Lewin","Greer Garson, Walter Pidgeon, Henry Travers","Paul Osborn, Hans Rameau, Ève Curie",Loew's Inc.,Sidney Franklin,"Biography, Drama, Romance",
 1943,1940s,False,The More the Merrier,7.6,104.0,George Stevens,"Jean Arthur, Joel McCrea, Charles Coburn","Robert Russell, Frank Ross, Richard Flournoy",Columbia Pictures,George Stevens,Comedy,
-1943,1940s,False,The Ox-Bow Incident,,,nan,nan,nan,20th Century Fox,Lamar Trotti,nan,
+1943,1940s,False,The Ox-Bow Incident,,,,,,20th Century Fox,Lamar Trotti,nan,
 1943,1940s,False,The Song of Bernadette,7.6,156.0,Henry King,"Jennifer Jones, Charles Bickford, William Eythe","George Seaton, Franz Werfel, Jacques Monteux",20th Century Fox,William Perlberg,"Biography, Drama, Mystery",
 1943,1940s,False,Watch on the Rhine,7.1,114.0,"Herman Shumlin, Hal Mohr","Bette Davis, Paul Lukas, Geraldine Fitzgerald","Dashiell Hammett, Lillian Hellman",Warner Bros.,Hal B. Wallis,"Drama, Thriller",
 1944,1940s,True,Going My Way,7.0,126.0,Leo McCarey,"Bing Crosby, Barry Fitzgerald, Frank McHugh","Frank Butler, Frank Cavett, Leo McCarey",Paramount Pictures,Leo McCarey,"Comedy, Drama, Music",
@@ -114,14 +114,14 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1945,1940s,False,Mildred Pierce,7.9,111.0,Michael Curtiz,"Joan Crawford, Jack Carson, Zachary Scott","Ranald MacDougall, James M. Cain, William Faulkner",Warner Bros.,Jerry Wald,"Crime, Drama, Film-Noir",
 1945,1940s,False,Spellbound,7.5,111.0,Alfred Hitchcock,"Ingrid Bergman, Gregory Peck, Michael Chekhov","Ben Hecht, John Palmer, Hilary St George Saunders",United Artists,David O. Selznick,"Drama, Film-Noir, Mystery",
 1946,1940s,True,The Best Years of Our Lives,8.1,170.0,William Wyler,"Myrna Loy, Dana Andrews, Fredric March","Robert E. Sherwood, MacKinlay Kantor",RKO Radio Pictures,Samuel Goldwyn,"Drama, Romance, War",23650000.0
-1946,1940s,False,Henry V,,,nan,nan,nan,Eagle-Lion Distributors Limited,Filippo Del Giudice,nan,
+1946,1940s,False,Henry V,,,,,,Eagle-Lion Distributors Limited,Filippo Del Giudice,nan,
 1946,1940s,False,It's a Wonderful Life,8.6,130.0,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore","Frances Goodrich, Albert Hackett, Frank Capra",RKO Radio Pictures,Frank Capra,"Drama, Family, Fantasy",1483643.0
 1946,1940s,False,The Razor's Edge,7.3,145.0,Edmund Goulding,"Tyrone Power, Gene Tierney, John Payne","Lamar Trotti, W. Somerset Maugham, Jacques Monteux",20th Century Fox,Darryl F. Zanuck,"Drama, Romance",
 1946,1940s,False,The Yearling,7.2,128.0,Clarence Brown,"Gregory Peck, Jane Wyman, Claude Jarman Jr.","Paul Osborn, Marjorie Kinnan Rawlings, John Lee Mahin","Loew's, Inc.",Sidney Franklin,"Drama, Family, Western",
 1947,1940s,True,Gentleman's Agreement,7.2,118.0,Elia Kazan,"Gregory Peck, Dorothy McGuire, John Garfield","Laura Z. Hobson, Moss Hart, Elia Kazan",20th Century Fox,Darryl F. Zanuck,"Drama, Romance",
 1947,1940s,False,The Bishop's Wife,7.6,109.0,Henry Koster,"Cary Grant, Loretta Young, David Niven","Robert E. Sherwood, Leonardo Bercovici, Robert Nathan",RKO Radio Pictures,Samuel Goldwyn,"Comedy, Drama, Fantasy",
 1947,1940s,False,Crossfire,7.3,86.0,Edward Dmytryk,"Robert Young, Robert Mitchum, Robert Ryan","John Paxton, Richard Brooks",RKO Radio Pictures,Adrian Scott,"Crime, Drama, Film-Noir",
-1947,1940s,False,Great Expectations,,,nan,nan,nan,General Film Distributors Ltd.,"Anthony Havelock-Allan, Ronald Neame",nan,
+1947,1940s,False,Great Expectations,,,,,,General Film Distributors Ltd.,"Anthony Havelock-Allan, Ronald Neame",nan,
 1947,1940s,False,Miracle on 34th Street,7.9,96.0,George Seaton,"Edmund Gwenn, Maureen O'Hara, John Payne","George Seaton, Valentine Davies, Jacques Monteux",20th Century-Fox,William Perlberg,"Comedy, Drama, Family",
 1948,1940s,True,Hamlet,7.6,154.0,Laurence Olivier,"Laurence Olivier, Jean Simmons, John Laurie","William Shakespeare, Laurence Olivier",Rank Film Distributors Ltd.,Laurence Olivier,Drama,
 1948,1940s,False,Johnny Belinda,7.7,102.0,Jean Negulesco,"Jane Wyman, Lew Ayres, Charles Bickford","Irma von Cube, Allen Vincent, Elmer Harris",Warner Bros.,Jerry Wald,Drama,
@@ -182,7 +182,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1959,1950s,False,Anatomy of a Murder,8.0,161.0,Otto Preminger,"James Stewart, Lee Remick, Ben Gazzara","Wendell Mayes, John D. Voelker",Columbia Pictures,Otto Preminger,"Drama, Mystery",11900000.0
 1959,1950s,False,The Diary of Anne Frank,7.4,180.0,George Stevens,"Millie Perkins, Shelley Winters, Joseph Schildkraut","Frances Goodrich, Albert Hackett, Anne Frank",20th Century-Fox,George Stevens,"Biography, Drama, Family",
 1959,1950s,False,The Nun's Story,7.5,149.0,Fred Zinnemann,"Audrey Hepburn, Peter Finch, Edith Evans","Robert Anderson, Kathryn Hulme",Warner Bros.,Henry Blanke,Drama,
-1959,1950s,False,Room at the Top,,,nan,nan,nan,British Lion Films,"John Woolf, James Woolf",nan,
+1959,1950s,False,Room at the Top,,,,,,British Lion Films,"John Woolf, James Woolf",nan,
 1960,1960s,True,The Apartment,8.3,125.0,Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray","Billy Wilder, I.A.L. Diamond",United Artists,Billy Wilder,"Comedy, Drama, Romance",18600000.0
 1960,1960s,False,The Alamo,6.8,162.0,John Wayne,"John Wayne, Richard Widmark, Laurence Harvey",James Edward Grant,United Artists,John Wayne,"Adventure, Drama, History",
 1960,1960s,False,Elmer Gantry,7.7,146.0,Richard Brooks,"Burt Lancaster, Jean Simmons, Arthur Kennedy","Richard Brooks, Sinclair Lewis",United Artists,Bernard Smith,Drama,
@@ -201,7 +201,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1963,1960s,True,Tom Jones,6.4,129.0,Tony Richardson,"Albert Finney, Susannah York, George Devine","John Osborne, Henry Fielding",United Artists,Tony Richardson,"Adventure, Comedy, History",
 1963,1960s,False,America America,7.7,174.0,Elia Kazan,"Stathis Giallelis, Frank Wolff, Elena Karam",Elia Kazan,Warner Bros.,Elia Kazan,"Adventure, Drama",
 1963,1960s,False,Cleopatra,7.0,320.0,"Joseph L. Mankiewicz, Rouben Mamoulian","Elizabeth Taylor, Richard Burton, Rex Harrison","Joseph L. Mankiewicz, Ranald MacDougall, Sidney Buchman",Twentieth Century-Fox,Walter Wanger,"Biography, Drama, History",57777778.0
-1963,1960s,False,How the West Was Won,,,nan,nan,nan,Metro-Goldwyn-Mayer,Bernard Smith,nan,
+1963,1960s,False,How the West Was Won,,,,,,Metro-Goldwyn-Mayer,Bernard Smith,nan,
 1963,1960s,False,Lilies of the Field,7.5,94.0,Ralph Nelson,"Sidney Poitier, Lilia Skala, Lisa Mann","James Poe, William E. Barrett",United Artists,Ralph Nelson,Drama,
 1964,1960s,True,My Fair Lady,7.7,170.0,George Cukor,"Audrey Hepburn, Rex Harrison, Stanley Holloway","Alan Jay Lerner, George Bernard Shaw",[a],Jack L. Warner,"Drama, Family, Musical",72560711.0
 1964,1960s,False,Becket,7.8,148.0,Peter Glenville,"Richard Burton, Peter O'Toole, John Gielgud","Jean Anouilh, Lucienne Hill, Edward Anhalt",Paramount Pictures,Hal B. Wallis,"Biography, Drama, History",149327.0
@@ -246,11 +246,11 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1972,1970s,True,The Godfather,9.2,175.0,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan","Mario Puzo, Francis Ford Coppola",Paramount Pictures,Albert S. Ruddy,"Crime, Drama",136381073.0
 1972,1970s,False,Cabaret,7.8,124.0,Bob Fosse,"Liza Minnelli, Michael York, Helmut Griem","Joe Masteroff, John Van Druten, Christopher Isherwood",Allied Artists,Cy Feuer,"Drama, Music, Musical",
 1972,1970s,False,Deliverance,7.6,109.0,John Boorman,"Jon Voight, Burt Reynolds, Ned Beatty","James Dickey, John Boorman",Warner Bros.,John Boorman,"Adventure, Drama, Thriller",
-1972,1970s,False,The Emigrants,,,nan,nan,nan,Svensk Filmindustri,Bengt Forslund,nan,
+1972,1970s,False,The Emigrants,,,,,,Svensk Filmindustri,Bengt Forslund,nan,
 1972,1970s,False,Sounder,7.5,105.0,Martin Ritt,"Cicely Tyson, Paul Winfield, Kevin Hooks","Lonne Elder III, William H. Armstrong",20th Century Fox,Robert B. Radnitz,"Drama, Family",3100601.0
 1973,1970s,True,The Sting,8.3,129.0,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",David S. Ward,Universal Pictures,"Tony Bill, Michael Phillips, Julia Phillips","Comedy, Crime, Drama",156000000.0
 1973,1970s,False,American Graffiti,7.4,110.0,George Lucas,"Richard Dreyfuss, Ron Howard, Paul Le Mat","George Lucas, Gloria Katz, Willard Huyck",Universal Pictures,Francis Ford Coppola,"Comedy, Drama",115000000.0
-1973,1970s,False,Cries and Whispers,,,nan,nan,nan,nan,Lars-Owe Carlberg,nan,
+1973,1970s,False,Cries and Whispers,,,,,,nan,Lars-Owe Carlberg,nan,
 1973,1970s,False,The Exorcist,8.1,122.0,William Friedkin,"Ellen Burstyn, Max von Sydow, Linda Blair",William Peter Blatty,Warner Bros.,William Peter Blatty,Horror,233005644.0
 1973,1970s,False,A Touch of Class,6.5,106.0,Melvin Frank,"George Segal, Glenda Jackson, Paul Sorvino","Melvin Frank, Jack Rose, Marvin Frank",AVCO Embassy Pictures,Melvin Frank,"Comedy, Romance",18312000.0
 1974,1970s,True,The Godfather Part II,9.0,202.0,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall","Francis Ford Coppola, Mario Puzo",Paramount Pictures,Francis Ford Coppola,"Crime, Drama",47834595.0
@@ -287,9 +287,9 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1980,1980s,False,Coal Miner's Daughter,7.5,124.0,Michael Apted,"Sissy Spacek, Tommy Lee Jones, Levon Helm","Thomas Rickman, Loretta Lynn, George Vecsey",Universal Pictures,Bernard Schwartz,"Biography, Drama, Music",67182787.0
 1980,1980s,False,The Elephant Man,8.2,124.0,David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft","Christopher De Vore, Eric Bergren, David Lynch",Columbia,Jonathan Sanger,"Biography, Drama",26010864.0
 1980,1980s,False,Raging Bull,8.1,129.0,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci","Jake LaMotta, Joseph Carter, Peter Savage",United Artists,"Irwin Winkler, Robert Chartoff","Biography, Drama, Sport",23383987.0
-1980,1980s,False,Tess,,,nan,nan,nan,Columbia,Claude Berri,nan,
+1980,1980s,False,Tess,,,,,,Columbia,Claude Berri,nan,
 1981,1980s,True,Chariots of Fire,7.1,125.0,Hugh Hudson,"Ben Cross, Ian Charleson, Nicholas Farrell",Colin Welland,20th Century-Fox,David Puttnam,"Biography, Drama, Sport",58972904.0
-1981,1980s,False,Atlantic City,,60.0,nan,"Dick Brooks, Bob Eubanks",nan,Paramount Pictures,"Denis Héroux, John Kemeny",Musical,
+1981,1980s,False,Atlantic City,,60.0,,"Dick Brooks, Bob Eubanks",,Paramount Pictures,"Denis Héroux, John Kemeny",Musical,
 1981,1980s,False,On Golden Pond,7.6,109.0,Mark Rydell,"Katharine Hepburn, Henry Fonda, Jane Fonda",Ernest Thompson,Universal Pictures,Bruce Gilbert,Drama,119285432.0
 1981,1980s,False,Raiders of the Lost Ark,8.4,115.0,Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman","Lawrence Kasdan, George Lucas, Philip Kaufman",Paramount Pictures,Frank Marshall,"Action, Adventure",248159971.0
 1981,1980s,False,Reds,7.3,195.0,Warren Beatty,"Warren Beatty, Diane Keaton, Edward Herrmann","Warren Beatty, Trevor Griffiths",Paramount Pictures,Warren Beatty,"Biography, Drama, History",40382659.0
@@ -317,7 +317,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1986,1980s,False,Children of a Lesser God,7.2,119.0,Randa Haines,"William Hurt, Marlee Matlin, Piper Laurie","Mark Medoff, Hesper Anderson, James Carrington",Paramount Pictures,Burt Sugarman,"Drama, Romance",31853080.0
 1986,1980s,False,Hannah and Her Sisters,7.8,107.0,Woody Allen,"Mia Farrow, Dianne Wiest, Michael Caine",Woody Allen,Orion Pictures,Robert Greenhut,"Comedy, Drama",40084041.0
 1986,1980s,False,The Mission,7.4,125.0,Roland Joffé,"Robert De Niro, Jeremy Irons, Ray McAnally",Robert Bolt,Columbia,"Fernando Ghia, David Puttnam, Máximo Berrondo","Adventure, Drama, History",17218023.0
-1986,1980s,False,A Room with a View,,,nan,nan,nan,Curzon Film Distributors,Ismail Merchant,nan,
+1986,1980s,False,A Room with a View,,,,,,Curzon Film Distributors,Ismail Merchant,nan,
 1987,1980s,True,The Last Emperor,7.7,163.0,Bernardo Bertolucci,"John Lone, Joan Chen, Peter O'Toole","Enzo Ungari, Mark Peploe, Bernardo Bertolucci",Columbia Pictures,Jeremy Thomas,"Biography, Drama, History",43984230.0
 1987,1980s,False,Broadcast News,7.3,133.0,James L. Brooks,"William Hurt, Albert Brooks, Holly Hunter",James L. Brooks,20th Century Fox,James L. Brooks,"Comedy, Drama, Romance",51249404.0
 1987,1980s,False,Fatal Attraction,6.9,119.0,Adrian Lyne,"Michael Douglas, Glenn Close, Anne Archer",James Dearden,Paramount Pictures,"Stanley R. Jaffe, Sherry Lansing","Drama, Thriller",156645693.0
@@ -361,7 +361,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1995,1990s,True,Braveheart,8.3,178.0,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",Randall Wallace,Paramount Pictures,"Alan Ladd Jr., Bruce Davey","Biography, Drama, War",75609945.0
 1995,1990s,False,Apollo 13,7.7,140.0,Ron Howard,"Tom Hanks, Bill Paxton, Kevin Bacon","Jim Lovell, Jeffrey Kluger, William Broyles Jr.",Universal Pictures,Brian Grazer,"Adventure, Drama, History",173837933.0
 1995,1990s,False,Babe,6.9,91.0,Chris Noonan,"James Cromwell, Magda Szubanski, Christine Cavanaugh","Dick King-Smith, George Miller, Chris Noonan",United International Pictures,"Bill Miller, Doug Mitchell","Comedy, Drama, Family",63658910.0
-1995,1990s,False,The Postman (Il Postino),,,nan,nan,nan,Variety Distribution,"Mario Cecchi Gori, Vittorio Cecchi Gori, Gaetano Daniele",nan,
+1995,1990s,False,The Postman (Il Postino),,,,,,Variety Distribution,"Mario Cecchi Gori, Vittorio Cecchi Gori, Gaetano Daniele",nan,
 1995,1990s,False,Sense and Sensibility,7.7,136.0,Ang Lee,"Emma Thompson, Kate Winslet, James Fleet","Jane Austen, Emma Thompson",Sony Pictures Releasing,Lindsay Doran,"Drama, Romance",43182776.0
 1996,1990s,True,The English Patient,7.4,162.0,Anthony Minghella,"Ralph Fiennes, Juliette Binoche, Willem Dafoe","Michael Ondaatje, Anthony Minghella",Miramax Films,Saul Zaentz,"Drama, Romance, War",78676425.0
 1996,1990s,False,Fargo,8.1,98.0,"Joel Coen, Ethan Coen","William H. Macy, Frances McDormand, Steve Buscemi","Ethan Coen, Joel Coen",PolyGram Filmed Entertainment,nan,"Crime, Drama, Thriller",24611975.0
@@ -375,7 +375,7 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 1997,1990s,False,L.A. Confidential,8.2,138.0,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce","James Ellroy, Brian Helgeland, Curtis Hanson",Warner Bros.,Arnon Milchan,"Crime, Drama, Mystery",64616940.0
 1998,1990s,True,Shakespeare in Love,7.1,123.0,John Madden,"Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush","Marc Norman, Tom Stoppard",Miramax Films,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick","Comedy, Drama, History",100317794.0
 1998,1990s,False,Elizabeth,7.4,124.0,Shekhar Kapur,"Cate Blanchett, Liz Giles, Rod Culbertson",Michael Hirst,nan,"Tim Bevan, Eric Fellner, Alison Owen","Biography, Drama, History",30082699.0
-1998,1990s,False,Life Is Beautiful,,,nan,nan,nan,Cecchi Gori Group,"Gianluigi Braschi, Elda Ferri",nan,
+1998,1990s,False,Life Is Beautiful,,,,,,Cecchi Gori Group,"Gianluigi Braschi, Elda Ferri",nan,
 1998,1990s,False,Saving Private Ryan,8.6,169.0,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",Robert Rodat,DreamWorks Pictures,"Ian Bryce, Mark Gordon, Gary Levinsohn","Drama, War",217049603.0
 1998,1990s,False,The Thin Red Line,7.6,170.0,Terrence Malick,"Jim Caviezel, Sean Penn, Nick Nolte","James Jones, Terrence Malick",20th Century Fox,Grant Hill,"Drama, History, War",36400491.0
 1999,1990s,True,American Beauty,8.3,122.0,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",Alan Ball,DreamWorks Pictures,"Bruce Cohen, Dan Jinks",Drama,130096601.0
@@ -428,13 +428,13 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 2008,2000s,False,Frost/Nixon,7.6,122.0,Ron Howard,"Frank Langella, Michael Sheen, Kevin Bacon",Peter Morgan,Universal Pictures,"Brian Grazer, Tim Bevan, Eric Fellner","Biography, Drama, History",18622031.0
 2008,2000s,False,Milk,7.5,128.0,Gus Van Sant,"Sean Penn, Josh Brolin, Emile Hirsch",Dustin Lance Black,Focus Features,"Dan Jinks, Bruce Cohen","Biography, Drama, History",31841299.0
 2008,2000s,False,The Reader,7.6,124.0,Stephen Daldry,"Kate Winslet, Ralph Fiennes, Bruno Ganz","David Hare, Bernhard Schlink",The Weinstein Company,"Anthony Minghella, Sydney Pollack, Donna Gigliotti, Redmond Morris","Drama, Mystery, Romance",34194407.0
-2009,2000s,True,The Hurt Locker,,,nan,nan,nan,Summit Entertainment,"Nicolas Chartier, Greg Shapiro",nan,
+2009,2000s,True,The Hurt Locker,,,,,,Summit Entertainment,"Nicolas Chartier, Greg Shapiro",nan,
 2009,2000s,False,Avatar,7.9,162.0,James Cameron,"Sam Worthington, Zoe Saldaña, Sigourney Weaver",James Cameron,nan,Jon Landau,"Action, Adventure, Fantasy",785221649.0
 2009,2000s,False,The Blind Side,7.6,129.0,John Lee Hancock,"Quinton Aaron, Sandra Bullock, Tim McGraw","John Lee Hancock, Michael Lewis",Warner Bros. Pictures,"Broderick Johnson, Andrew Kosove","Biography, Drama, Sport",255982860.0
 2009,2000s,False,District 9,7.9,112.0,Neill Blomkamp,"Sharlto Copley, David James, Jason Cope","Neill Blomkamp, Terri Tatchell",Sony Pictures Releasing,"Peter Jackson, Carolynne Cunningham","Action, Sci-Fi, Thriller",115646235.0
 2009,2000s,False,An Education,7.2,100.0,Lone Scherfig,"Carey Mulligan, Peter Sarsgaard, Alfred Molina","Lynn Barber, Nick Hornby",E1 Entertainment,"Finola Dwyer, Amanda Posey",Drama,12574914.0
 2009,2000s,False,Inglourious Basterds,8.4,153.0,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",Quentin Tarantino,The Weinstein Company (United States)Universal Pictures (International),Lawrence Bender,"Adventure, Drama, War",120540719.0
-2009,2000s,False,"Precious: Based on the Novel ""Push"" by Sapphire",,,nan,nan,nan,Lionsgate,Gary Magness,nan,
+2009,2000s,False,"Precious: Based on the Novel ""Push"" by Sapphire",,,,,,Lionsgate,Gary Magness,nan,
 2009,2000s,False,A Serious Man,7.0,106.0,"Ethan Coen, Joel Coen","Michael Stuhlbarg, Richard Kind, Sari Lennick","Joel Coen, Ethan Coen",Focus Features,"Joel Coen, Ethan Coen","Comedy, Drama",9228768.0
 2009,2000s,False,Up,8.3,96.0,"Pete Docter, Bob Peterson","Edward Asner, Jordan Nagai, John Ratzenberger","Pete Docter, Bob Peterson, Tom McCarthy",Walt Disney StudiosMotion Pictures,Jonas Rivera,"Animation, Adventure, Comedy",293004164.0
 2009,2000s,False,Up in the Air,7.4,109.0,Jason Reitman,"George Clooney, Vera Farmiga, Anna Kendrick","Walter Kirn, Jason Reitman, Sheldon Turner",Paramount Pictures,"Daniel Dubiecki, Ivan Reitman","Comedy, Drama, Romance",83823381.0
@@ -525,14 +525,14 @@ Year,Decade,Winner,Movie,IMDbRating,Runtime,Director,Actors,Writer(s),Distributo
 2019,2010s,False,Little Women,7.8,135.0,Greta Gerwig,"Saoirse Ronan, Emma Watson, Florence Pugh","Greta Gerwig, Louisa May Alcott",Sony Pictures Releasing,"Bill Benz, Kathy Benz, Bert Hamelinck, Sacha Ben Harroche","Drama, Romance",108101214.0
 2019,2010s,False,Marriage Story,7.9,137.0,Noah Baumbach,"Adam Driver, Scarlett Johansson, Julia Greer",Noah Baumbach,Netflix,David Heyman,"Drama, Romance",
 2019,2010s,False,1917,8.2,119.0,Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays","Sam Mendes, Krysty Wilson-Cairns",Universal Pictures,"Pippa Harris, Brian Oliver","Action, Drama, War",159227644.0
-2019,2010s,False,Once Upon a Time in Hollywood,,,nan,"Leonardo DiCaprio, Jim Hemphill, Brad Pitt",nan,Sony Pictures Releasing,"David Heyman, Shannon McIntosh",nan,
+2019,2010s,False,Once Upon a Time in Hollywood,,,,"Leonardo DiCaprio, Jim Hemphill, Brad Pitt",,Sony Pictures Releasing,"David Heyman, Shannon McIntosh",nan,
 2020,2020s,True,Nomadland,7.3,107.0,Chloé Zhao,"Frances McDormand, David Strathairn, Linda May","Chloé Zhao, Jessica Bruder",Searchlight Pictures,"Frances McDormand, Peter Spears, Mollye Asher",Drama,3700000.0
 2020,2020s,False,The Father,8.2,97.0,Florian Zeller,"Anthony Hopkins, Olivia Colman, Mark Gatiss","Christopher Hampton, Florian Zeller",UGC Distribution,"David Parfitt, Jean-Louis Livi, Philippe Carcassonne","Drama, Mystery",2122771.0
-2020,2020s,False,Judas and the Black Messiah,,,nan,nan,nan,Warner Bros. Pictures,Ryan Coogler,nan,
+2020,2020s,False,Judas and the Black Messiah,,,,,,Warner Bros. Pictures,Ryan Coogler,nan,
 2020,2020s,False,Mank,6.8,131.0,David Fincher,"Gary Oldman, Amanda Seyfried, Lily Collins",Jack Fincher,Netflix,"Ceán Chaffin, Eric Roth, Douglas Urbanski","Biography, Drama",
 2020,2020s,False,Minari,7.4,115.0,Lee Isaac Chung,"Steven Yeun, Han Ye-ri, Alan Kim",Lee Isaac Chung,A24,"Dede Gardner, Jeremy Kleiner, Christina Oh",Drama,3110580.0
 2020,2020s,False,Promising Young Woman,7.5,113.0,Emerald Fennell,"Carey Mulligan, Bo Burnham, Alison Brie",Emerald Fennell,Focus Features,"Margot Robbie, Tom Ackerley","Crime, Drama, Mystery",6460965.0
-2020,2020s,False,Sound of Metal,,,nan,nan,nan,Amazon Studios,Bill BenzKathy BenzBert HamelinckSacha Ben Harroche,nan,
+2020,2020s,False,Sound of Metal,,,,,,Amazon Studios,Bill BenzKathy BenzBert HamelinckSacha Ben Harroche,nan,
 2020,2020s,False,The Trial of the Chicago 7,7.7,129.0,Aaron Sorkin,"Eddie Redmayne, Alex Sharp, Sacha Baron Cohen",Aaron Sorkin,Netflix,"Stuart M. Besser, Marc Platt","Drama, History, Thriller",
 2021,2020s,True,CODA,8.0,111.0,Sian Heder,"Emilia Jones, Marlee Matlin, Troy Kotsur","Sian Heder, Victoria Bedos, Stanislas Carré de Malberg",Apple Original Films,"Philippe Rousselet, Jérôme Seydoux","Comedy, Drama, Music",
 2021,2020s,False,Belfast,7.2,98.0,Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitríona Balfe",Kenneth Branagh,Focus Features,"Laura Berwick, Kenneth Branagh, Becca Kovacik, Tamar Thomas","Biography, Drama, Romance",9250870.0
