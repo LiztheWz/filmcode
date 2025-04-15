@@ -1,0 +1,8 @@
+pandas
+plotly
+matplotlib
+seaborn
+requests
+streamlit
+
+# for deploying for streamlit community cloud
